@@ -1,0 +1,18 @@
+Week,Task,Epic,Owner
+"WEEK 1 (Foundations)","[A.1] Setup data ingestion script",Backend,Member 1
+"WEEK 1 (Foundations)","[A.2] Engineer features for model",Backend,Member 1
+"WEEK 1 (Foundations)","[A.4] Create FastAPI app structure",Backend,Member 1
+"WEEK 1 (Foundations)","[B.1] Setup initial Streamlit dashboard UI",Frontend,Member 2
+"WEEK 1 (Foundations)","[C.1] Dockerize the FastAPI backend",Deployment,Member 1
+"WEEK 1 (Foundations)","[C.2] Dockerize the Streamlit frontend",Deployment,Member 2
+"WEEK 2 (Integration)","[A.3] Train baseline classification model",Backend,Member 1
+"WEEK 2 (Integration)","[A.5] Build signal generation logic",Backend,Member 1
+"WEEK 2 (Integration)","[A.6] Implement /signal/btc endpoint",Backend,Member 1
+"WEEK 2 (Integration)","[B.3] Create API client service",Frontend,Member 2
+"WEEK 2 (Integration)","[B.4] Integrate API data into dashboard",Frontend,Member 2
+"WEEK 2 (Integration)","[C.3] Configure Docker Compose",Deployment,Both
+"WEEK 3 (Deployment)","[A.7] Add basic analytics logging",Backend,Member 1
+"WEEK 3 (Deployment)","[B.5] Connect feedback component to backend",Frontend,Member 2
+"WEEK 3 (Deployment)","[B.6] Refine UI & add data visualizations",Frontend,Member 2
+"WEEK 3 (Deployment)","[C.4] Deploy application to cloud",Deployment,Both
+"WEEK 3 (Deployment)","[C.5] Full end-to-end testing & bug bash",Deployment,Both
